@@ -7,6 +7,7 @@
 * [HTML 5] - https://dev.w3.org/html5/html-author/
 * [CSS 3] - https://devdocs.io/css/
 * [Javascript] - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+* [OwlCarousel] - https://owlcarousel2.github.io/OwlCarousel2/
 
 # Descrição:
 
@@ -17,7 +18,7 @@ Link do site: https://perithus.com.br/
 
 ## Em uma análise realizada foram observados os seguintes pontos:
 
-- Favicon com fundo branco. Solução proposta remover o background para sua aparencia fiquecom forma circular. A logo também foi modificada.
+- Favicon com fundo branco. Solução proposta remover o background para sua aparencia fique com forma circular. A logo também foi modificada.
 
 ![Perithus](assets/img/fp.png) / ![Perithus](assets/img/fpp.png)
 
