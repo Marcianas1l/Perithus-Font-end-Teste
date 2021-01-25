@@ -18,7 +18,9 @@ Link do site: https://perithus.com.br/
 ## Em uma análise realizada foram observados os seguintes pontos:
 
 - Favicon com fundo branco. Solução proposta remover o background para sua aparencia fiquecom forma circular. A logo também foi modificada.
+
 ![Perithus](assets/img/fp.png) / ![Perithus](assets/img/fpp.png)
+
 - Remover css de arquivos .html (codigo muito sujo)
   - Muitas linhas de código repetidas
   - Mesmo código de cor repetido várias vezes, solução para isso foi a criação de uma variável que recebeu a cor.
