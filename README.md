@@ -13,11 +13,12 @@
 Encontrar pontos de falha e melhoria no site que é desenvolvido basicamente com HTML, CSS e Javascript.
 Link do site: https://perithus.com.br/
 
-![Perithus](img/perithusant.gif)
+![Perithus](assets/img/perithusant.gif)
 
 ## Em uma análise realizada foram observados os seguintes pontos:
 
 - Favicon com fundo branco. Solução proposta remover o background para sua aparencia fiquecom forma circular. A logo também foi modificada.
+![Perithus](assets/img/fp.png) / ![Perithus](assets/img/fpp.png)
 - Remover css de arquivos .html (codigo muito sujo)
   - Muitas linhas de código repetidas
   - Mesmo código de cor repetido várias vezes, solução para isso foi a criação de uma variável que recebeu a cor.
@@ -62,7 +63,7 @@ No geral, o site não transmite seriedade. Apresenta ser um site amador, um proj
 - Sendo assim, desenvolvi uma land pag exemplificando o que citei aqui:
 
 
-![Perithus](img/perithusant.gif)
+![Perithus](assets/img/perithus.gif)
 
 Para visualizar a página publicada: 
 
