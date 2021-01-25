@@ -1,4 +1,4 @@
-# perithus
+# Perithus Technologies
 
 # Desafio Perithus :white_check_mark:
 
@@ -15,7 +15,7 @@ Link do site: https://perithus.com.br/
 
 ![Perithus](img/perithusant.gif)
 
-# # Em uma análise realizada foram observados os seguintes pontos:
+## Em uma análise realizada foram observados os seguintes pontos:
 
 - Favicon com fundo branco. Solução proposta remover o background para sua aparencia fiquecom forma circular. A logo também foi modificada.
 - Remover css de arquivos .html (codigo muito sujo)
@@ -57,9 +57,9 @@ Link do site: https://perithus.com.br/
 
 No geral, o site não transmite seriedade. Apresenta ser um site amador, um projeto de estudo talvez.
 
-# A solução proposta por mim foi a criação e desenvolvimento de um novo layout, com um designer e cores criativas e que transmitisse profissionalismo.
+## A solução proposta por mim foi a criação e desenvolvimento de um novo layout, com um designer e cores criativas e que transmitisse profissionalismo.
 
-# # Sendo assim, desenvolvi uma land pag exemplificando o que citei aqui:
+- Sendo assim, desenvolvi uma land pag exemplificando o que citei aqui:
 
 
 ![Perithus](img/perithusant.gif)
