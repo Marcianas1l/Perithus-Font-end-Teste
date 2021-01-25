@@ -29,14 +29,14 @@ Link do site: https://perithus.com.br/
 - Página não possui respiro dos lados, talvez não fosse interessante esse preenchimento full.
 - Títulos com fontes exorbitante
 - Botão 'SAIBA MAIS' linkado errado.
-- Sessão 'Vantagens'
+- Seção 'Vantagens'
   - Blocos sem padrão de tamanho, mal posicionados
   - Adicionar uma animação ao mover o mouse seria interessante
-- Sessão 'Nossos Parceiros' com pouquissímo conteúdo
+- Seção 'Nossos Parceiros' com pouquissímo conteúdo
   - Imagens não possuiem links para a página dos respectivos parceiros
-- Sessão 'Sua ideia, nossa expertise'
+- Seção 'Sua ideia, nossa expertise'
   - O botão 'Veja quanto custa' poderia ser um 'Saiba mais' ou um 'Entre em contato'.
-- Sessão 'Depoimentos' com pouco conteúdo
+- Seção 'Depoimentos' com pouco conteúdo
   - Imagens sem qualidade, com cortes diferentes, sem padrão algum
   - Blocos enormes
   - Vídeo poderia está em outro bloco
@@ -49,13 +49,13 @@ Link do site: https://perithus.com.br/
 - As páginas Home e Carreira não seguem o padrão das demais paginas. 
 - A página 'Sobre Nós' deveria começar contando a história da Perithus, incluindo, se a mesma possuir, 
 'Missão', 'Visão' e 'Valores'.
-- A sessão carreiras
+- A seção carreiras
   - Possui uma imagem do Google e não do time da empresa
-- A sessão Carreiras
+- A seção Carreiras
   - Não possui um filtro (Vagas, localidades)
   - Não possui descrição e requisitos para as vagas. Somente um título.
   - Todas as vagas estão linkadas a um formulário padrão.
-- A sessão Contato (Poderia ser: Entre em contato)
+- A seção Contato (Poderia ser: Entre em contato)
   - Remover os botões de contato, pois já estão presentes no footer.
   - Colocar um formulário (Nome, email, serviço desejado...)
 
