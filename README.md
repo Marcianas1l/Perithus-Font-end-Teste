@@ -1,5 +1,5 @@
 # Desafio Perithus :white_check_mark:
-![:target="_blank"](https://marcianas1l.github.io/Perithus-Font-end-Teste/)
+[https://marcianas1l.github.io/Perithus-Font-end-Teste/](https://marcianas1l.github.io/Perithus-Font-end-Teste/){:target="_blank" rel="noopener"}
 
 
 # Tecnologias utilizadas :books:
