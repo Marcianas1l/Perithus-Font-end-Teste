@@ -1,8 +1,6 @@
-# Perithus Technologies
-
 # Desafio Perithus :white_check_mark:
 
-# Técnologias utilizadas :books:
+# Tecnologias utilizadas :books:
 
 * [HTML 5] - https://dev.w3.org/html5/html-author/
 * [CSS 3] - https://devdocs.io/css/
@@ -11,7 +9,7 @@
 
 # Descrição:
 
-Encontrar pontos de falha e melhoria no site que é desenvolvido basicamente com HTML, CSS e Javascript.
+Encontrar pontos de falha e melhorias no site que é desenvolvido basicamente com HTML, CSS e Javascript.
 
 Link do site: https://perithus.com.br/
 
@@ -19,57 +17,71 @@ Link do site: https://perithus.com.br/
 
 ## Em uma análise realizada foram observados os seguintes pontos:
 
-- Favicon com fundo branco. Solução proposta remover o background para sua aparencia fique com forma circular. A logo também foi modificada.
+- Favicon com fundo branco. Solução proposta: Remover o background para que sua aparência fique com forma circular. A logo também foi modificada.
 
-![Perithus](assets/img/fp.png) / ![Perithus](assets/img/fpp.png)
+Antes: ![Perithus](assets/img/fp.png) 
+Depois: ![Perithus](assets/img/fpp.png)
 
-- Remover css de arquivos .html (codigo muito sujo)
-  - Muitas linhas de código repetidas
-  - Mesmo código de cor repetido várias vezes, solução para isso foi a criação de uma variável que recebeu a cor.
-- Botão Login está linkado para lugar nenhum.
-- Página não possui respiro dos lados, talvez não fosse interessante esse preenchimento full.
-- Títulos com fontes exorbitante
-- Botão 'SAIBA MAIS' linkado errado.
-- Seção 'Vantagens'
-  - Blocos sem padrão de tamanho, mal posicionados
-  - Adicionar uma animação ao mover o mouse seria interessante
-- Seção 'Nossos Parceiros' com pouquissímo conteúdo
-  - Imagens não possuiem links para a página dos respectivos parceiros
-- Seção 'Sua ideia, nossa expertise'
+- Remover css inline de arquivos html, pois o código html está muito sujo.
+  - Muitas linhas de código repetidas;
+  - Mesmo código de cor repetido várias vezes. Solução:  Criação de variável que recebe a cor que se repete.
+  
+- Botão de Login estnão possui link.
+
+- Página não possui respiro dos lados. Talvez não fosse interessante esse preenchimento full.
+
+- Títulos com fontes exorbitantes.
+
+- Botão 'SAIBA MAIS' com link quebrado.
+
+- Seção 'Vantagens':
+  - Blocos sem padrão de tamanho, mal posicionados;
+  - Adicionar uma animação ao mover o mouse seria interessante.
+  
+- Seção 'Nossos Parceiros':
+  - com pouquissímo conteúdo:
+  - Imagens não possuiem links para a página dos respectivos parceiros.
+  
+- Seção 'Sua ideia, nossa expertise':
   - O botão 'Veja quanto custa' poderia ser um 'Saiba mais' ou um 'Entre em contato'.
-- Seção 'Depoimentos' com pouco conteúdo
-  - Imagens sem qualidade, com cortes diferentes, sem padrão algum
-  - Blocos enormes
-  - Vídeo poderia está em outro bloco
-- Footer enorme
-  - Conteúdo poderia está melhor posicionado
-  - Botões não estão centralizados, enormes, sem cores e sem efeitos ao mover o mouse, sem indicativo de link
+  
+- Seção 'Depoimentos': 
+  - com pouco conteúdo;
+  - Imagens sem qualidade, com cortes diferentes, sem padrão algum;
+  - Cards dos depoimentos enormes;
+  - Adição confusa do vídeo, uma vez que todos os outros cards são com fotos.
+  
+- Footer:
+  - Área enorme, mas com pouquíssimo conteúdo;
+  - Conteúdo poderia estar melhor posicionado;
+  - Botões não estão centralizados, enormes, sem cores e sem efeitos ao mover o mouse, sem indicativo de link.
 
-/*FINALIZAÇÃO DA PÁGINA HOME*/
+- As páginas Home e Carreira não seguem o padrão das demais páginas. 
 
-- As páginas Home e Carreira não seguem o padrão das demais paginas. 
 - A página 'Sobre Nós' deveria começar contando a história da Perithus, incluindo, se a mesma possuir, 
 'Missão', 'Visão' e 'Valores'.
-- A seção carreiras
-  - Possui uma imagem do Google e não do time da empresa
-- A seção Carreiras
-  - Não possui um filtro (Vagas, localidades)
-  - Não possui descrição e requisitos para as vagas. Somente um título.
-  - Todas as vagas estão linkadas a um formulário padrão.
-- A seção Contato (Poderia ser: Entre em contato)
-  - Remover os botões de contato, pois já estão presentes no footer.
-  - Colocar um formulário (Nome, email, serviço desejado...)
+
+- Página "Carreiras":
+  - Possui uma imagem do Google e não do time da empresa, no qual não transmite ser uma empresa;
+  - Na seção Vagas não existe um filtro para melhorar a experiência de busca de uma vaga na empresa; 
+  - Não possui descrição e requisitos para as vagas, somente um título;
+  - Todas as vagas estão linkadas a um formulário padrão e não para descrição específica da vaga.
+  
+- Página "Contato": 
+  - Poderia ser: Entre em contato;
+  - Remover os botões de contato, pois já estão presentes no footer ou colocar mais informações nesta área; 
+  - Colocar um formulário com campo de nome obrigatório, email, telefone obrigatório, e campo de texto obrigatório.
+
 
 No geral, o site não transmite seriedade. Apresenta ser um site amador, um projeto de estudo talvez.
 
-## A solução proposta por mim foi a criação e desenvolvimento de um novo layout, com um designer e cores criativas e que transmitisse profissionalismo.
-
-- Sendo assim, desenvolvi uma land pag exemplificando o que citei aqui:
+## Minha solução: 
+  - Criação e desenvolvimento de um novo layout, com um designer e cores criativas e que transmita profissionalismo.
+  - Sendo assim, desenvolvi uma landing page exemplificando o que citei:
 
 
 ![Perithus](assets/img/perithus.gif)
 
-Para visualizar a página publicada: 
 
 # Contato
 [E-mail] - ana18silva@gmail.com
