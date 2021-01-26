@@ -22,6 +22,7 @@ Link do site: https://perithus.com.br/
 - Favicon com fundo branco. Solução proposta: Remover o background para que sua aparência fique com forma circular. A logo também foi modificada.
 
 Antes: ![Perithus](assets/img/fp.png) 
+
 Depois: ![Perithus](assets/img/fpp.png)
 
 - Remover css inline de arquivos html, pois o código html está muito sujo.
